@@ -1,4 +1,4 @@
-This util helps generate message.json for chrome extension.
+This util helps generate `message.json` for chrome extension.
 
 ### Example
 This yaml file
