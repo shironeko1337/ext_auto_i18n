@@ -1,4 +1,5 @@
-This util helps generate `message.json` for chrome extension.
+### Auto i18n using Google Cloud Translation
+This util helps generating `message.json` for chrome extensions.
 
 ### Example
 This yaml file
