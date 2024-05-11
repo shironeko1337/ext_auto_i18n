@@ -1,0 +1,9 @@
+# sys config
+# the language for simpleMsg and message in indexedMsg, these are gonna translated  into the language in languages
+messagesLanguage: en
+outputFile: messages.json
+languages:
+  - code: 'zh-TW'
+    dir: 'zh_TW'
+cacheFile: _i18nGen_cache.json
+osEnvAPIKey: GCP_APIKEY
