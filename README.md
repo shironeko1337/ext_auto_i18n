@@ -1,6 +1,11 @@
 ### Auto i18n using Google Cloud Translation
 This util helps generating `message.json` for chrome extensions.
 
+### Usage
+- Config os environment variable, variable name is configured in config.yaml, default is `osEnvAPIKey`
+- Config yaml for your app, see example below.
+- Run `python i18Gen.py`
+
 ### Example
 This yaml file
 ```
