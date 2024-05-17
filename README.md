@@ -4,7 +4,7 @@ This util helps generating `message.json` for chrome extensions.
 ### Usage
 - Config os environment variable, variable name is configured in config.yaml, default is `osEnvAPIKey`
 - Config yaml for your app, see example below.
-- Run `python i18Gen.py`
+- Run `python i18Gen.py file.yaml`, if no config file is specified, the script would traverse through all valid config files in the current directory.
 
 ### Example
 This yaml file
